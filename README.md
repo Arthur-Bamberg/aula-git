@@ -18,6 +18,12 @@ Por causa disso esse histórico não se perde nunca e podemos até ter versões 
 
 # Básico
 
+1. git clone "para clonar o repositório"
+2. git pull "pegar as alterações remotas"
+3. git add . "para adicionar as alterações"
+4. git commit -m "para commitar e colocar uma mensagem"
+5. git push "para adicionar ao repositório remoto"
+
 O fluxo básico do git começa com obter os arquivos com os quais vamos trabalhar.
 Por exemplo, os códigos fonte dos programas.
 Depois de obtidos esses códigos, podemos modificar eles na nossa máquina.
